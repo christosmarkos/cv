@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: christos.k.markos@gmail.com
-    phone: 185 7670 4650
+    phone: (+86) 185 7670 4650
     wechat: christosmarkos
-    website: christosmarkos.github.io/online-cv/ #do not add http://
+    website: christosmarkos.github.io/online-cv #do not add http://
     linkedin: christosmarkos
     github: christosmarkos
     gitlab:
