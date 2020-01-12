@@ -45,6 +45,9 @@ sidebar:
       - item: Music composition & recording
         link:
 
+      - item: World traveling
+        link:
+
       - item: Language learning
         link:
 
@@ -55,6 +58,8 @@ career-profile:
       Currently a visiting researcher at the Southern University of Science and Technology (SUSTech), Shenzhen, China. 
       Research interests include Machine Learning, Deep Learning, and their application to smart cities and transportation. 
       Co-supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS) and Dr. James Jian Qiao Yu 余剑峤 (SUSTech).
+
+      Born in 1993 with dual nationality (American, Greek), currently living in Shenzhen, China.
 education:
     - degree: Doctor of Philosophy (PhD) in Deep Learning
       university: University of Technology Sydney (UTS), Sydney, Australia
