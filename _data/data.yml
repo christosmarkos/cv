@@ -39,13 +39,13 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Electric guitar playing (14 years)
+      - item: Guitar & piano (14 years)
         link:
 
       - item: Music composition & recording
         link:
 
-      - item: Cooking
+      - item: Language learning
         link:
 
 career-profile:
@@ -68,14 +68,14 @@ education:
         - 2019 – 2021: Visiting researcher at the Department of Computer Science and Engineering, 
         Southern University of Science and Technology (SUSTech), Shenzhen, China.
         
-    - degree: Diploma in Electrical and Computer Engineering (7.89 / 10)
+    - degree: Diploma in Electrical and Computer Engineering (7.89/10)
       university: University of Thessaly, Volos, Greece
       time: 2011 – 2017
       details: |
         In diploma thesis titled "Prediction and calibration of temporal driving behavior and its deployment by 
-        self-driving cars", used Machine Learning to predict the next few street segments to be traveled by taxis
-        in Rome, Italy.
-        Was co- supervised by Dr. Dimitrios Katsaros and Dr. Aspassia Daskalopulu. Thesis was awarded full grade (10/10).
+        self-driving cars", used Machine Learning to predict vehicles' future road segments based on short-term segment 
+        history and time-blended features.
+        Co-supervised by Dr. Dimitrios Katsaros and Dr. Aspassia Daskalopulu. Awarded full grade (10/10).
 experiences:
     - role: Head Teaching Assistant
       time: Feb 2019 – Jun 2019
@@ -115,7 +115,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      Coming soon...
+      To be updated - aiming for 2-3 publications in esteemed conferences and journals in 2020.
 #    papers:
 #      - title: The Art of Computer Programming
 #        link: "#"
