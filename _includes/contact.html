@@ -12,6 +12,11 @@
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.wechat %}
+    <li class="wechat"><i class="fab fa-weixin"></i>
+    </li>
+    {% endif %}
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
@@ -22,12 +27,6 @@
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
-    </li>
-    {% endif %}
-    
-    {% if sidebar.wechat %}
-    <li class="wechat"><i class="fab fa-weixin"></i>
-      <a href="" target="_blank">{{ sidebar.wechat }}</a>
     </li>
     {% endif %}
 
