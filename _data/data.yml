@@ -56,17 +56,17 @@ career-profile:
       Research interests include Machine Learning, Deep Learning, and their application to smart cities. 
       Currently co-supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS) and Dr. James Jian Qiao Yu 余剑峤 (SUSTech). 
 education:
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2017  present
+    - degree: Doctor of Philosophy (PhD) in Deep Learning
+      university: Southern University of Science and Technology (SUSTech), Shenzhen, China
+      time: 2017 – present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - 2017 – 2019: Researcher at University of Technology Sydney (UTS), Australia.
+        - 2019 – 2021: Visiting researcher at the Department of Computer Science and Engineering, 
+        Southern University of Science and Technology (SUSTech), Shenzhen, China.
+
+        Supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS), Dr. James Jian Qiao Yu 余剑峤 (SUSTech). 
+        Was awarded the certificate of High Academic Achievement (Autumn 2018) by UTS.
+        
     - degree: Diploma in Electrical and Computer Engineering
       university: University of Thessaly, Volos, Greece
       time: 2011 – 2017
@@ -78,20 +78,20 @@ education:
 experiences:
     - role: Head Teaching Assistant
       time: Feb 2019 – Jun 2019
-      company: Southern University of Science and Technology, Shenzhen, China
+      company: Southern University of Science and Technology (SUSTech), Shenzhen, China
       details: |
         Was the head teaching assistant for the third-year undergraduate course "Parallel and Cloud Computing" at SUSTech. 
         Assisted students with homework assignments, graded them, and gave short tutorials on required programming tools.
     - role: Co-supervisor
       time: Mar 2018 – Jun 2018
-      company: University of Technology Sydney, Sydney, Australia
+      company: University of Technology Sydney (UTS), Sydney, Australia
       details: |
         Co-supervised an undergraduate student as part of his 31243 Analytics Capstone Project B, which was based on the 
         application of convolutional neural networks to Deepfake generation. Held weekly meetings for troubleshooting, 
         discussion of results and general project direction.
     - role: Tutor (Casual Academic)
       time: Jan 2018 – Mar 2018
-      company: University of Technology Sydney, Sydney, Australia
+      company: University of Technology Sydney (UTS), Sydney, Australia
       details: |
         During this 6-week summer studio in Data Science led by Dr. Richard Yi Da Xu 徐亦达:
         - Tutored the students in Data Science and Machine Learning concepts & algorithms (in-class);
