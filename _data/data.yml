@@ -53,7 +53,7 @@ career-profile:
     summary: |
       Deep Learning PhD Candidate at the University of Technology Sydney (UTS), Australia. 
       Currently a visiting researcher at the Southern University of Science and Technology (SUSTech), Shenzhen, China. 
-      Research interests include Machine Learning, Deep Learning, and their application to smart cities. 
+      Research interests include Machine Learning, Deep Learning, and their application to smart cities and transportation. 
       Co-supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS) and Dr. James Jian Qiao Yu 余剑峤 (SUSTech).
 education:
     - degree: Doctor of Philosophy (PhD) in Deep Learning
@@ -68,14 +68,14 @@ education:
         - 2019 – 2021: Visiting researcher at the Department of Computer Science and Engineering, 
         Southern University of Science and Technology (SUSTech), Shenzhen, China.
         
-    - degree: Diploma in Electrical and Computer Engineering
+    - degree: Diploma in Electrical and Computer Engineering (7.89 / 10)
       university: University of Thessaly, Volos, Greece
       time: 2011 – 2017
       details: |
         In diploma thesis titled "Prediction and calibration of temporal driving behavior and its deployment by 
         self-driving cars", used Machine Learning to predict the next few street segments to be traveled by taxis
         in Rome, Italy.
-        Was supervised by Dr. Dimitrios Katsaros and Dr. Aspassia Daskalopulu. Was awarded full grade (10/10).
+        Was co- supervised by Dr. Dimitrios Katsaros and Dr. Aspassia Daskalopulu. Thesis was awarded full grade (10/10).
 experiences:
     - role: Head Teaching Assistant
       time: Feb 2019 – Jun 2019
