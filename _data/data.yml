@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -58,7 +58,7 @@ career-profile:
 education:
     - degree: BSc in Applied Mathematics
       university: Bristol University
-      time: 2017 - present
+      time: 2017  present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,40 +68,38 @@ education:
           - Bullet point
           - Bullet point
     - degree: Diploma in Electrical and Computer Engineering
-      university: University of Thessaly
-      time: 2011 - 2017
+      university: University of Thessaly, Volos, Greece
+      time: 2011 – 2017
       details: |
         In diploma thesis titled "Prediction and calibration of temporal driving behavior and its deployment by 
         self-driving cars", used Machine Learning to predict the next few street segments to be traveled by taxis
         in Rome, Italy.
         Was supervised by Dr. Dimitrios Katsaros and Dr. Aspassia Daskalopulu. Was awarded full grade (10/10).
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Head Teaching Assistant
+      time: Feb 2019 – Jun 2019
+      company: Southern University of Science and Technology, Shenzhen, China
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Was the head teaching assistant for the third-year undergraduate course "Parallel and Cloud Computing" at SUSTech. 
+        Assisted students with homework assignments, graded them, and gave short tutorials on required programming tools.
+    - role: Co-supervisor
+      time: Mar 2018 – Jun 2018
+      company: University of Technology Sydney, Sydney, Australia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Co-supervised an undergraduate student as part of his 31243 Analytics Capstone Project B, which was based on the 
+        application of convolutional neural networks to Deepfake generation. Held weekly meetings for troubleshooting, 
+        discussion of results and general project direction.
+    - role: Tutor (Casual Academic)
+      time: Jan 2018 – Mar 2018
+      company: University of Technology Sydney, Sydney, Australia
+      details: |
+        During this 6-week summer studio in Data Science led by Dr. Richard Yi Da Xu 徐亦达:
+        - Tutored the students in Data Science and Machine Learning concepts & algorithms (in-class);
+        - Liaised between students and industry partners to ensure timely project progress in line with weekly objectives;
+        - Provided project-related study material and guidance to students;
+        - Managed group communication and meetings;
+        - Gave feedback on students' portfolio submissions.
+
 #projects:
 #    title: Projects
 #    intro: >
@@ -116,9 +114,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Coming soon...
 #    papers:
 #      - title: The Art of Computer Programming
 #        link: "#"
@@ -129,14 +125,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python &
-        level: 98%
+      - name: Python & TensorFlow 2
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python & Keras
+        level: 95%
 
-      - name: Angular
+      - name: Python & NumPy, pandas, scikit-learn
         level: 98%
+        
+      - name: Java
+        level: 92%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    References available upon request. WeChat ID: christosmarkos.
