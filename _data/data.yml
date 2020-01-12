@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Christos Markos
     tagline: Deep Learning PhD Candidate
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Christos Markos 2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: christos.k.markos@gmail.com
     phone: (+86) 185 7670 4650
     wechat: christosmarkos
-    website: christosmarkos.github.io/online-cv #do not add http://
+    website: christosmarkos.github.io/online-cv/ #do not add http://
     linkedin: christosmarkos
     github: christosmarkos
     gitlab:
@@ -39,7 +39,7 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Electric guitar playing
+      - item: Electric guitar playing (14 years)
         link:
 
       - item: Music composition & recording
@@ -54,18 +54,19 @@ career-profile:
       Deep Learning PhD Candidate at the University of Technology Sydney (UTS), Australia. 
       Currently a visiting researcher at the Southern University of Science and Technology (SUSTech), Shenzhen, China. 
       Research interests include Machine Learning, Deep Learning, and their application to smart cities. 
-      Currently co-supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS) and Dr. James Jian Qiao Yu 余剑峤 (SUSTech). 
+      Co-supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS) and Dr. James Jian Qiao Yu 余剑峤 (SUSTech).
 education:
     - degree: Doctor of Philosophy (PhD) in Deep Learning
-      university: Southern University of Science and Technology (SUSTech), Shenzhen, China
+      university: University of Technology Sydney (UTS), Sydney, Australia
       time: 2017 – present
       details: |
-        - 2017 – 2019: Researcher at University of Technology Sydney (UTS), Australia.
+        Researching novel Deep Learning applications to intelligent transportation.
+        Co-supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS) and Dr. James Jian Qiao Yu 余剑峤 (SUSTech). 
+        Was awarded the certificate of High Academic Achievement (Autumn 2018) by UTS.
+        
+        - 2017 – 2019: Researcher at University of Technology Sydney (UTS), Sydney, Australia.
         - 2019 – 2021: Visiting researcher at the Department of Computer Science and Engineering, 
         Southern University of Science and Technology (SUSTech), Shenzhen, China.
-
-        Supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS), Dr. James Jian Qiao Yu 余剑峤 (SUSTech). 
-        Was awarded the certificate of High Academic Achievement (Autumn 2018) by UTS.
         
     - degree: Diploma in Electrical and Computer Engineering
       university: University of Thessaly, Volos, Greece
@@ -138,4 +139,4 @@ skills:
         level: 92%
 
 footer: >
-    References available upon request. WeChat ID: christosmarkos.
+    References available upon request.
