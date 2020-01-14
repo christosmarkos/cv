@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: christos.k.markos@gmail.com
-    phone: (+86) 185 7670 4650
+    phone: # (+86) 185 7670 4650
     wechat: christosmarkos
     website: christosmarkos.github.io/online-cv/ #do not add http://
     linkedin: christosmarkos
@@ -135,7 +135,10 @@ skills:
         level: 90%
 
       - name: Python & Keras
-        level: 95%
+        level: 92%
+        
+      - name: Python & PyTorch
+        level: 75%
 
       - name: Python & NumPy, pandas, scikit-learn
         level: 98%
