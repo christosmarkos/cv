@@ -63,19 +63,19 @@ career-profile:
 education:
     - degree: Doctor of Philosophy (PhD) in Deep Learning
       university: University of Technology Sydney (UTS), Sydney, Australia
-      time: 2017 – present
+      time: Aug 2017 – Aug 2021
       details: |
         Researching novel Deep Learning applications to intelligent transportation.
         Co-supervised by Dr. Richard Yi Da Xu 徐亦达 (UTS) and Dr. James Jian Qiao Yu 余剑峤 (SUSTech). 
         Was awarded the certificate of High Academic Achievement (Autumn 2018) by UTS.
         
-        - 2017 – 2019: Researcher at University of Technology Sydney (UTS), Sydney, Australia.
-        - 2019 – 2021: Visiting researcher at the Department of Computer Science and Engineering, 
+        - Aug 2017 – Jan 2019: Researcher at University of Technology Sydney (UTS), Sydney, Australia.
+        - Jan 2019 – Aug 2021: Visiting researcher at the Department of Computer Science and Engineering, 
         Southern University of Science and Technology (SUSTech), Shenzhen, China.
         
     - degree: Diploma in Electrical and Computer Engineering (7.89/10)
       university: University of Thessaly, Volos, Greece
-      time: 2011 – 2017
+      time: Sep 2011 – Jul 2017
       details: |
         In diploma thesis titled "Prediction and calibration of temporal driving behavior and its deployment by 
         self-driving cars", used Machine Learning to predict vehicles' future road segments based on short-term segment 
@@ -120,7 +120,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      To be updated - aiming for 2-3 publications in esteemed conferences and journals in 2020.
+      To be updated; aiming for 2-3 publications in esteemed conferences and journals in 2020.
 #    papers:
 #      - title: The Art of Computer Programming
 #        link: "#"
