@@ -17,7 +17,7 @@ sidebar:
     wechat: christosmarkos
     website: christosmarkos.github.io/cv/ #do not add http://
     linkedin: christosmarkos
-    github: christosmarkos
+    github: # christosmarkos
     gitlab:
     bitbucket:
     twitter: 
@@ -33,7 +33,7 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Intermediate
+        level: Advanced (Sorbonne C1)
         
       - idiom: Chinese
         level: Beginner
@@ -120,7 +120,9 @@ experiences:
 publications:
     title: Publications
     intro: |
-      To be updated; aiming for 2-3 publications in esteemed conferences and journals in 2020.
+      To be updated; aiming for 3-4 publications in esteemed conferences and journals in 2020. First paper to be submitted 
+      in February 2020.
+
 #    papers:
 #      - title: The Art of Computer Programming
 #        link: "#"
